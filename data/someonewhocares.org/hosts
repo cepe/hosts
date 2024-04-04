@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 18 Mar 2024 at 06:18:33 GMT
+# Last updated: Tue, 02 Apr 2024 at 04:17:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1859,6 +1859,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
+0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
@@ -1999,6 +2000,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
+0.0.0.0 deposit-et-1interac.help
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
 0.0.0.0 details-update.com
@@ -2501,6 +2503,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 makeitmedia.fr
 0.0.0.0 makerblog.fr
 0.0.0.0 makesushi.fr
+0.0.0.0 manage2-phone7alerts.com
 0.0.0.0 mandialrelay.fr
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
@@ -3050,7 +3053,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 tranisere.fr
-0.0.0.0 transfer.sh
 0.0.0.0 trauiqce.click
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
@@ -8249,6 +8251,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mjlunalaw.com
 0.0.0.0 mjonkers.nl
 0.0.0.0 mjxads.internet.com
+0.0.0.0 mk.limonshel.de
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 ml314.com
 0.0.0.0 mlntracker.com
@@ -10936,6 +10939,7 @@ ff02::3		ip6-allhosts
 #<yahoo-ad-sites>
 
 # yahoo banner ads
+# If you have trouble with Yahoo email, you may need to comment out these lines
 #0.0.0.0 us.i1.yimg.com	#Uncomment this to block yahoo images
 0.0.0.0 in.yimg.com
 0.0.0.0 us.a1.yimg.com

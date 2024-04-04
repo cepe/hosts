@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 19 Mar 2024 22:26 UTC+7
-# Version: 2403192226
-# Blocked: 5,463 domains
+# Last modified: 31 Mar 2024 21:36 UTC+7
+# Version: 2403312136
+# Blocked: 5,468 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -572,6 +572,7 @@
 0.0.0.0 alo789viet.com
 0.0.0.0 alo88.bet
 0.0.0.0 alo888.com
+0.0.0.0 aoays.xyz
 0.0.0.0 api.118kbet.com
 0.0.0.0 api.11zalo.com
 0.0.0.0 api.123bhh.com
@@ -3671,6 +3672,8 @@
 0.0.0.0 portal.taisum2.com
 0.0.0.0 portal.vip11.us
 0.0.0.0 portal.xinloiduocchua.co
+0.0.0.0 pp88.dev
+0.0.0.0 pp88.icu
 0.0.0.0 pro.vuigiaitri.org
 0.0.0.0 prod.bwingmkt1.com
 0.0.0.0 prod.bwingmkt10.com
@@ -3791,6 +3794,7 @@
 0.0.0.0 s.8xbet.xyz
 0.0.0.0 s.p3vn.co
 0.0.0.0 s.sv66c.com
+0.0.0.0 s0106.com
 0.0.0.0 s0kn5.com
 0.0.0.0 s1.sin88.biz
 0.0.0.0 s1.sin88.cc
@@ -5152,6 +5156,7 @@
 0.0.0.0 www.oppa88888888.com
 0.0.0.0 www.oxbet.club
 0.0.0.0 www.oxbet.com
+0.0.0.0 www.pp88.icu
 0.0.0.0 www.qh205.com
 0.0.0.0 www.qh215.com
 0.0.0.0 www.qh217.com

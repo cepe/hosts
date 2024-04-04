@@ -2728,3 +2728,9 @@
 0.0.0.0 justtrack-logs.justtrack.io
 0.0.0.0 sdk-api.justtrack.io
 0.0.0.0 prod.adjoe-programmatic.com
+
+# Added March 28, 2024
+0.0.0.0 argo.svcmot.com
+
+# Added April 3, 2024
+0.0.0.0 canadapost.ca-help-h.top
