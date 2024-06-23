@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 22 May 2024 15:02 UTC+7
-# Version: 2405221502
-# Blocked: 1,847 domains
+# Last modified: 17 Jun 2024 11:19 UTC+7
+# Version: 2406171119
+# Blocked: 1,862 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -98,6 +98,7 @@
 0.0.0.0 rec.admicro.vn
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 static-cmsads.admicro.vn
+0.0.0.0 supply-sspapi.admicro.vn
 0.0.0.0 systracking.admicro.vn
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 www.admicro.vn
@@ -1519,6 +1520,14 @@
 #[adlinknetwork.vn]
 0.0.0.0 service.adlinknetwork.vn
 0.0.0.0 syndication.adlinknetwork.vn
+#[vdacdn2.viettel.vn]
+0.0.0.0 vdacdn1.viettel.vn
+0.0.0.0 vdacdn2.viettel.vn
+#[vda.viettel.vn]
+0.0.0.0 cdn1.vda.viettel.vn
+0.0.0.0 delivery.vda.viettel.vn
+0.0.0.0 log.vda.viettel.vn
+0.0.0.0 vda.viettel.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1556,9 +1565,11 @@
 0.0.0.0 ads.baoangiang.com.vn
 0.0.0.0 ads.baobinhduong.vn
 0.0.0.0 ads.baobinhthuan.com.vn
+0.0.0.0 ads.baocamau.vn
 0.0.0.0 ads.baocantho.com.vn
 0.0.0.0 ads.baodatviet.vn
 0.0.0.0 ads.baohaiduong.vn
+0.0.0.0 ads.baolongan.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
 0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 ads.businessstyle.vn
@@ -1582,6 +1593,7 @@
 0.0.0.0 ads.markettimes.vn
 0.0.0.0 ads.marry.vn
 0.0.0.0 ads.nghenhinvietnam.vn
+0.0.0.0 ads.nguoiduatin.vn
 0.0.0.0 ads.nhadatmoi.net
 0.0.0.0 ads.phunuonline.com.vn
 0.0.0.0 ads.phunusuckhoe.vn
@@ -1793,6 +1805,7 @@
 0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.nhattao.com
+0.0.0.0 analytics.ntlc.com.vn
 0.0.0.0 analytics.pancake.vn
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.sohatv.vn
@@ -1841,6 +1854,7 @@
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 file-subiz.com
 0.0.0.0 follow.vnay.vn
+0.0.0.0 formalhood.com
 0.0.0.0 gtm.saostar.vn
 0.0.0.0 gtmjs.com
 0.0.0.0 hit.123c.vn
@@ -1967,6 +1981,7 @@
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.dongphim.net
 0.0.0.0 stats.hstatic.net
+0.0.0.0 stats.osd.vn
 0.0.0.0 stats.petrotimes.vn
 0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.vietnammoi.vn
@@ -1995,6 +2010,7 @@
 0.0.0.0 track.popsww.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
+0.0.0.0 track.winigroup.vn
 0.0.0.0 tracker.anime47.com
 0.0.0.0 tracker.edupia.vn
 0.0.0.0 tracker.fado.vn
@@ -2025,6 +2041,7 @@
 0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
+0.0.0.0 upl.net-solutions.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vn.alexajstrack.com
