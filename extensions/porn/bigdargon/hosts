@@ -1,7 +1,7 @@
 # Title: hostsVN Adult VN
-# Last modified: 03 Feb 2025 15:54 UTC+7
-# Version: 2502031554
-# Blocked: 2.800 domains
+# Last modified: 23 Jul 2025 10:36 UTC+7
+# Version: 2507231036
+# Blocked: 2.821 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -104,9 +104,13 @@
 0.0.0.0 buom.tv
 0.0.0.0 buomdep.pro
 0.0.0.0 buomhay.com
+0.0.0.0 buomngon.com
 0.0.0.0 buomsex.com
 0.0.0.0 buomtube.tv
+0.0.0.0 buomtv.blog
+0.0.0.0 buomtv.club
 0.0.0.0 buomtv.io
+0.0.0.0 buomtv.live
 0.0.0.0 buomtv.me
 0.0.0.0 buomtv.tv
 0.0.0.0 buomxinh.org
@@ -271,6 +275,10 @@
 0.0.0.0 dam69.xyz
 0.0.0.0 dam69z.com
 0.0.0.0 damchim.com
+0.0.0.0 damconuong.cc
+0.0.0.0 damconuong.fit
+0.0.0.0 damconuong.love
+0.0.0.0 damconuong.net
 0.0.0.0 damduc.org
 0.0.0.0 damlon.net
 0.0.0.0 damlon.xyz
@@ -339,6 +347,7 @@
 0.0.0.0 fullcliphot.info
 0.0.0.0 fullphim.pro
 0.0.0.0 gadit.pro
+0.0.0.0 gai2.buomngon.com
 0.0.0.0 gai35.com
 0.0.0.0 gaicantho.xyz
 0.0.0.0 gaicaocap.xyz
@@ -834,6 +843,7 @@
 0.0.0.0 kichduc.vip
 0.0.0.0 kieunuvadaigia.xyz
 0.0.0.0 kieunuviet.xyz
+0.0.0.0 kieunuvn.com
 0.0.0.0 kieunuxinh.net
 0.0.0.0 kphimsex.xyz
 0.0.0.0 ktv.bio
@@ -867,6 +877,9 @@
 0.0.0.0 linksextop1.com
 0.0.0.0 live.mm1cloud.com
 0.0.0.0 live.sexviet88.pro
+0.0.0.0 live18k.com
+0.0.0.0 live18k.me
+0.0.0.0 live18k.vip
 0.0.0.0 livechich.com
 0.0.0.0 loandam.net
 0.0.0.0 loclipnong.com
@@ -2082,9 +2095,13 @@
 0.0.0.0 thegioianhdephd.blogspot.com
 0.0.0.0 thegioigaigoi.pro
 0.0.0.0 thegioilucsac.com
+0.0.0.0 themhentai.com
 0.0.0.0 themjav.com
 0.0.0.0 themphim.com
+0.0.0.0 thempho.club
 0.0.0.0 thempho.tv
+0.0.0.0 thempho1.com
+0.0.0.0 thempho2.com
 0.0.0.0 themphotv.com
 0.0.0.0 theundergroundclub.net
 0.0.0.0 thichcu.com
@@ -2419,6 +2436,7 @@
 0.0.0.0 vlxx.com.co
 0.0.0.0 vlxx.contact
 0.0.0.0 vlxx.day
+0.0.0.0 vlxx.digital
 0.0.0.0 vlxx.fan
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gold
@@ -2439,6 +2457,7 @@
 0.0.0.0 vlxx.men
 0.0.0.0 vlxx.mobi
 0.0.0.0 vlxx.moe
+0.0.0.0 vlxx.money
 0.0.0.0 vlxx.mx
 0.0.0.0 vlxx.network
 0.0.0.0 vlxx.pet
@@ -2569,6 +2588,7 @@
 0.0.0.0 www.anhsexvip.me
 0.0.0.0 www.apptimgai.com
 0.0.0.0 www.buomtv.app
+0.0.0.0 www.buomtv.blog
 0.0.0.0 www.buomtv.tv
 0.0.0.0 www.phim18k.com
 0.0.0.0 www.phimsexs.net
@@ -2780,6 +2800,7 @@
 0.0.0.0 xxxxinh.com
 0.0.0.0 xxxxvideo.uno
 0.0.0.0 xzx.mobi
+0.0.0.0 yeu22.com
 0.0.0.0 yeuanh.site
 0.0.0.0 yeusex.me
 0.0.0.0 yeusex.net
