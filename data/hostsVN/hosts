@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 23 Jul 2025 10:37 UTC+7
-# Version: 2507231037
-# Blocked: 1.773 domains
+# Last modified: 10 Sep 2025 16:08 UTC+7
+# Version: 2509101608
+# Blocked: 1.775 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1493,6 +1493,7 @@
 0.0.0.0 ads.laodongnghean.vn
 0.0.0.0 ads.markettimes.vn
 0.0.0.0 ads.marry.vn
+0.0.0.0 ads.msdigital.vn
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nguoiduatin.vn
 0.0.0.0 ads.nhadatmoi.net
@@ -1583,6 +1584,7 @@
 0.0.0.0 deqik.com
 0.0.0.0 dt.vnecdn.com
 0.0.0.0 duamilsyr.com
+0.0.0.0 farawayinstallation.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 fzip.thanhnien.vn
 0.0.0.0 go.vnecdn.com
